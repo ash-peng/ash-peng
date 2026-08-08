@@ -1,1 +1,1 @@
-- Hi, I’m @ash-peng, a software/solutions/AI developer in Vancouver, British Columbia.
+- Hi, I’m @ash-peng, a data engineer in Vancouver, British Columbia.
